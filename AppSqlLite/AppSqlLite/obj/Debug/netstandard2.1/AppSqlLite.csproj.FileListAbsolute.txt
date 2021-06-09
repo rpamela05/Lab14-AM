@@ -1,0 +1,14 @@
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\obj\Debug\netstandard2.1\AppSqlLite.csprojAssemblyReference.cache
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\obj\Debug\netstandard2.1\AppSqlLite.AssemblyInfoInputs.cache
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\obj\Debug\netstandard2.1\AppSqlLite.AssemblyInfo.cs
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\obj\Debug\netstandard2.1\AppSqlLite.csproj.CoreCompileInputs.cache
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\bin\Debug\netstandard2.1\AppSqlLite.deps.json
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\bin\Debug\netstandard2.1\AppSqlLite.dll
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\bin\Debug\netstandard2.1\ref\AppSqlLite.dll
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\bin\Debug\netstandard2.1\AppSqlLite.pdb
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\obj\Debug\netstandard2.1\AppSqlLite.dll
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\obj\Debug\netstandard2.1\ref\AppSqlLite.dll
+C:\Users\rpame\source\repos\AppSqlLite\AppSqlLite\AppSqlLite\obj\Debug\netstandard2.1\AppSqlLite.pdb
